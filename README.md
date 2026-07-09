@@ -96,16 +96,3 @@ Potential future enhancements include:
 
 ---
 
-## Author
-
-**Atheer Alsumai**
-
-Artificial Intelligence Department
-
-University of Jeddah
-
----
-
-## License
-
-This project is licensed under the MIT License.
